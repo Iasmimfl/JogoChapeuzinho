@@ -23,6 +23,9 @@ bin/
 /nbdist/
 /.nb-gradle/
 
+### Java ###
+*.class
+
 ### VS Code ###
 .vscode/
 
